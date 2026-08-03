@@ -181,7 +181,7 @@ Dependências selecionadas no [start.spring.io](https://start.spring.io/):
 4. **Lombok**
 5. **Oracle Driver**
 
-*(Um print das configurações do Spring Initializr foi salvo na pasta do projeto como `initializr_config.png`)*.
+![Spring Initializr Config](./sprint_initializer.png)
 
 ---
 

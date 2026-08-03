@@ -1,19 +1,14 @@
-===============================================================
-CHECKPOINT 4 - PARTE 1 (API E DEPLOY) - FIAP TDS
-===============================================================
-
 INTEGRANTES DO GRUPO:
-1. Nome: [SEU NOME COMPLETO] - RM: [SEU RM]
-2. Nome: [NOME INTEGRANTE 2] - RM: [RM INTEGRANTE 2] (se houver)
-3. Nome: [NOME INTEGRANTE 3] - RM: [RM INTEGRANTE 3] (se houver)
+1. Nome: Leandro Guarido de Oliveira - RM: 561760
+2. Nome: Kaiky Costa - RM: 564578
+3. Nome: Gabriel Costa Solano - RM: 562325
 
-CURSO: Tecnologia em Análise e Desenvolvimento de Sistemas (TDS)
-TURMA: [SUA TURMA - Ex: 2TDSP]
+TURMA: 2TDSPV
 
-IDE UTILIZADA: IntelliJ IDEA / Eclipse / NetBeans (Selecione a utilizada)
+IDE UTILIZADA: IntelliJ
 
 LINK DO REPOSITÓRIO GITHUB:
-https://github.com/[SEU_USUARIO]/[NOME_DO_REPOSITORIO]
+https://github.com/LeandroGuaridoOliveira/Java-gs4.git
 
-LINK DO DEPLOY ATIVO (SE HOUVER):
-https://[SEU_APP].onrender.com/mercado
+LINK DO DEPLOY:
+https://mercado-express-fiap.onrender.com/mercado

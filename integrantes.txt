@@ -10,5 +10,3 @@ IDE UTILIZADA: IntelliJ
 LINK DO REPOSITÓRIO GITHUB:
 https://github.com/LeandroGuaridoOliveira/Java-gs4.git
 
-LINK DO DEPLOY:
-https://mercado-express-fiap.onrender.com/mercado

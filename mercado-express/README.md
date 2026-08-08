@@ -192,6 +192,3 @@ Dependências selecionadas no [start.spring.io](https://start.spring.io/):
 
 ---
 
-## 👨‍💻 Integrantes do Grupo
-
-Verifique o arquivo [`integrantes.txt`](./integrantes.txt) na raiz do projeto com o nome e RM de todos os integrantes do grupo.
